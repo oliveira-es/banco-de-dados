@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.Playground.exe.config
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.Playground.exe
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.Playground.pdb
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.dll
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.Infra.dll
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.Infra.pdb
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\bin\Debug\BancoDeDados.pdb
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\obj\Debug\BancoDeDados.Playground.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\obj\Debug\BancoDeDados.Playground.exe
+C:\Users\Admin\Desktop\BancoDeDados\BancoDeDados.Playground\obj\Debug\BancoDeDados.Playground.pdb
